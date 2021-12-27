@@ -1,5 +1,7 @@
 package com.foldify;
 
+import android.content.Intent;
+
 import android.os.Build;
 import android.os.Bundle;
 
@@ -17,6 +19,12 @@ public class MainActivity extends ReactActivity {
     // This is required for expo-splash-screen.
     setTheme(R.style.AppTheme);
     super.onCreate(null);
+  }
+
+  @Override
+  public void onNewIntent(Intent intent) {
+    super.onNewIntent(intent);
+    setIntent(intent);
   }
 
   /**

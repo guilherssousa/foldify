@@ -1,11 +1,9 @@
 {
   "expo": {
-    "name": "foldify",
+    "name": "Foldify",
     "slug": "foldify",
     "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
+    "assetBundlePatterns": ["**/*"]
   },
-  "name": "foldify"
+  "name": "Foldify"
 }

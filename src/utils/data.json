@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "name": "Memes 💩",
+    "slug": "krteazy-memes",
+    "tweets": [
+      {
+        "from": "krteazy",
+        "content": "Olá, isso é um tweet!"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Gatos 🐈",
+    "slug": "krteazy-gatos",
+    "tweets": [
+      {
+        "from": "krteazy",
+        "content": "Olá, isso é um tweet!"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "BTS 💜",
+    "slug": "krteazy-bts",
+    "tweets": [
+      {
+        "from": "krteazy",
+        "content": "Olá, isso é um tweet!"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Uma categoria desnecessáriamente grande 🐱",
+    "slug": "krteazy-uma-categoria-desnecessariamente-grande",
+    "tweets": [
+      {
+        "from": "krteazy",
+        "content": "Olá, isso é um tweet!"
+      }
+    ]
+  }
+]
